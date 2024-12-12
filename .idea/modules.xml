@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assig01/Assig01.iml" filepath="$PROJECT_DIR$/Lecture11/Assig01/Assig01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assig02/Assig02.iml" filepath="$PROJECT_DIR$/Lecture11/Assig02/Assig02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assig03/Assig03.iml" filepath="$PROJECT_DIR$/Lecture11/Assig03/Assig03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assig04/Assig04.iml" filepath="$PROJECT_DIR$/Lecture11/Assig04/Assig04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment2/Assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment3/Assignment3.iml" />
@@ -35,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture05/Lecture05.iml" filepath="$PROJECT_DIR$/Lecture05/Lecture05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture08/Lecture08.iml" filepath="$PROJECT_DIR$/Lecture08/Lecture08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Lecture10.iml" filepath="$PROJECT_DIR$/Lecture10/Lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Lecture11.iml" filepath="$PROJECT_DIR$/Lecture11/Lecture11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Lecture2.iml" filepath="$PROJECT_DIR$/Lecture2/Lecture2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/MidTermExam_202411.iml" filepath="$PROJECT_DIR$/MidTermExam_202411/MidTermExam_202411.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTerm_MIhael_Trencheska/Task01/Task01.iml" filepath="$PROJECT_DIR$/MidTerm_MIhael_Trencheska/Task01/Task01.iml" />
