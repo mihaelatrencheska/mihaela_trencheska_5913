@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12final/12final.iml" filepath="$PROJECT_DIR$/12final/12final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12final_2/12final_2.iml" filepath="$PROJECT_DIR$/12final_2/12final_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12final_3/12final_3.iml" filepath="$PROJECT_DIR$/12final_3/12final_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16final_1/16final_1.iml" filepath="$PROJECT_DIR$/16final_1/16final_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final.iml" filepath="$PROJECT_DIR$/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final03/final03.iml" filepath="$PROJECT_DIR$/final03/final03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final04/final04.iml" filepath="$PROJECT_DIR$/final04/final04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final05/final05.iml" filepath="$PROJECT_DIR$/final05/final05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_01/final_01.iml" filepath="$PROJECT_DIR$/final_01/final_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_02/final_02.iml" filepath="$PROJECT_DIR$/final_02/final_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_06_01/final_06_01.iml" filepath="$PROJECT_DIR$/final_06_01/final_06_01.iml" />
+    </modules>
+  </component>
+</project>

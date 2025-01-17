@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01mid.iml" filepath="$PROJECT_DIR$/01mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02mid/02mid.iml" filepath="$PROJECT_DIR$/02mid/02mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03mid/03mid.iml" filepath="$PROJECT_DIR$/03mid/03mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04mid/04mid.iml" filepath="$PROJECT_DIR$/04mid/04mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05mid/05mid.iml" filepath="$PROJECT_DIR$/05mid/05mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06mid/06mid.iml" filepath="$PROJECT_DIR$/06mid/06mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07mid/07mid.iml" filepath="$PROJECT_DIR$/07mid/07mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09mid/09mid.iml" filepath="$PROJECT_DIR$/09mid/09mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10mid/10mid.iml" filepath="$PROJECT_DIR$/10mid/10mid.iml" />
+    </modules>
+  </component>
+</project>
